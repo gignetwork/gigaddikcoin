@@ -1,0 +1,16 @@
+# http://standards.freedesktop.org/desktop-entry-spec/desktop-entry-spec-1.0.html
+
+[Desktop Entry]
+Encoding=UTF-8
+Name=GigAddik Core
+Comment=GigAddik Core QT main network
+GenericName=GigAddik Digital Currency QT client main network
+Exec=gigaddik-core.qt %u
+Terminal=false
+Type=Application
+Icon=${SNAP}/share/pixmaps/gigaddik.png
+MimeType=x-scheme-handler/gigaddik;
+Categories=X-Office;X-Finance;
+Keywords=internet;gigaddik;zpiv;piv;core;wallet;qt;main;snap;launchpad;crypto;digital;currency;coin;token;zerocoin;
+Version=1.0
+Name[en_US]=gigaddik-qt.desktop

@@ -1,0 +1,4 @@
+qt/qt_libbitcoinqt_a-qrc_gigaddik.o: qt/qrc_gigaddik.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

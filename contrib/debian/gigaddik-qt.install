@@ -1,0 +1,6 @@
+usr/local/bin/gigaddik-qt usr/bin
+share/pixmaps/gigaddik32.xpm usr/share/pixmaps
+share/pixmaps/gigaddik16.xpm usr/share/pixmaps
+share/pixmaps/gigaddik128.png usr/share/pixmaps
+debian/gigaddik-qt.desktop usr/share/applications
+debian/gigaddik-qt.protocol usr/share/kde4/services/

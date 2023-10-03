@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=GigAddik Core
+Comment=GigAddik P2P Cryptocurrency
+Exec=gigaddik-qt %u
+Terminal=false
+Type=Application
+Icon=gigaddik128
+MimeType=x-scheme-handler/gigaddik;
+Categories=Office;Finance;
+StartupWMClass=GigAddik-qt
+Name[en_US]=gigaddik-qt.desktop
