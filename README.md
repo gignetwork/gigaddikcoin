@@ -19,7 +19,7 @@ Launching Date: January 15, 2024 12:00 (UTC)
 * Maturity: 100 Confirmations
 * Max Coin Supply: 5,000,000 GIG (in 19 Years)
 * Prefix: GigAddik (GIG) adresses start with the letter "G"
-* Ports: 5367 (p2p) / 5377 (rpc)
+* Ports: 5369 (p2p) / 5370 (rpc)
 * Masternode Collateral Star: 2000 GIG
 
 The Collateral to start 1 Masternode will start at 2000 GIG (see structure below).
