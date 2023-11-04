@@ -2,7 +2,7 @@
 
 ### Links
 * Website [addik.co](https://addik.co)
-* Discord [https://discord.gg/cqfS65P4](https://discord.gg/cqfS65P4)
+* Discord https://discord.gg/D844HVzWdQ
 * Telegram [https://t.me/addik](https://t.me/addiknetwork)
 * Explorer (January 2024): https://explorergig.addik.co
 * Short WhitePaper https://addik.co/gigaddik_wp.pdf
