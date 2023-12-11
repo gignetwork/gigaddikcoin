@@ -4,12 +4,12 @@
 * Website [addik.co](https://addik.co)
 * Discord https://discord.gg/D844HVzWdQ
 * Telegram [https://t.me/addik](https://t.me/addiknetwork)
-* Explorer (January 2024): https://explorergig.addik.co
+* Explorer (March 2024): https://explorergig.addik.co
 * Short WhitePaper https://addik.co/gigaddik_wp.pdf
 
 ### Gig Addik Coin (GIG) Specs
 
-Launching Date: January 15, 2024 12:00 (UTC)
+Launching Date: March 04, 2024 12:00 (UTC)
 
 * PoW Algorithm: Quark
 * Premine (Start Supply): 250,000 GIG (0.5%) (100k to Shareholders)
