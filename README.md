@@ -1,10 +1,9 @@
 ![GIG Logo](https://addik.co/gig256.png)
 
 ### Links
-* Website [addik.co](https://addik.co)
+* Website [addik.co](https://gigbtc.com)
 * Discord https://discord.gg/D844HVzWdQ
-* Telegram [https://t.me/addik](https://t.me/addiknetwork)
-* Short WhitePaper https://addik.co/gigaddik_wp.pdf
+* Telegram [https://t.me/gigbtc_com](https://t.me/gigbtc_com)
 
 ### Gig Addik Coin (GIG) Specs
 
@@ -24,7 +23,6 @@ Launching Date: to be announced
 The Collateral to start 1 Masternode will start at 2000 GIG (see structure below).
 So to be in the first batch of lucky Masternode Owners and receive daily passive GIG income,
 you need to buy a minimum of One (1) Addik Network Share to get 2000 GIG.
-More Info >>> https://addik.co/gigaddik_wp.pdf
 
 ![GIG Structure](https://addik.co/structure.jpg)
 
