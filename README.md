@@ -1,7 +1,7 @@
 ![GIG Logo](https://addik.co/gig256.png)
 
 ### Links
-* Website [addik.co](https://gigbtc.com)
+* Website [gigbtc.com](https://gigbtc.com)
 * Discord https://discord.gg/D844HVzWdQ
 * Telegram [https://t.me/gigbtc_com](https://t.me/gigbtc_com)
 
